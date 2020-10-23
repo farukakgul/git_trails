@@ -7,5 +7,6 @@ public class Main {
     System.out.println("branch'e geçtim");
     System.out.println("tekrar branchten yazıyorum");
     System.out.println("smart git i deniyorum ");
+    System.out.println("smart git 2. commit ");
   }
 }

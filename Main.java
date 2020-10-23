@@ -3,5 +3,6 @@ public class Main {
     int num1 = 100;
     int num2 = 5;
     System.out.println("Number 1 = " + num1 + " Number 2 = " + num2);
+    System.out.println("omer");
   }
 }

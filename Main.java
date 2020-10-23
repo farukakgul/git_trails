@@ -5,5 +5,6 @@ public class Main {
     System.out.println("Number 1 = " + num1 + " Number 2 = " + num2);
     System.out.println("omer");
     System.out.println("branch'e geçtim");
+    System.out.println("tekrar branchten yazıyorum");
   }
 }

@@ -8,5 +8,6 @@ public class Main {
     System.out.println("tekrar branchten yazıyorum");
     System.out.println("smart git i deniyorum ");
     System.out.println("smart git 2. commit ");
+    System.out.println("Tekrardan master a geçtim smart gitten deniyorum");
   }
 }
